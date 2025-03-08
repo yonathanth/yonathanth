@@ -2,6 +2,6 @@
 
 <!--
 
-- 🌱 I’m currently learning
+- 🌱 learning
 
 -->
